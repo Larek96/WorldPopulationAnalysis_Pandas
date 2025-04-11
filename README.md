@@ -20,35 +20,6 @@ This Jupyter Notebook provides an exploratory data analysis (EDA) of global popu
 - Seaborn
 - Jupyter Notebook
 
-## 📁 File Structure
-
-```
-.
-├── WorldPopulationAnalysis.ipynb  # Main notebook for population analysis
-└── data/                          # (Optional) Folder for storing datasets
-```
-
-## 🚀 Getting Started
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/world-population-analysis.git
-   cd world-population-analysis
-   ```
-
-2. Install the required packages (use a virtual environment if preferred):
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Launch the Jupyter Notebook:
-
-   ```bash
-   jupyter notebook WorldPopulationAnalysis.ipynb
-   ```
-
 ## 📈 Example Visualizations
 
 - Line plots of population trends

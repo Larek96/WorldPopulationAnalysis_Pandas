@@ -52,18 +52,4 @@ This Jupyter Notebook provides an exploratory data analysis (EDA) of global popu
 ## 📈 Example Visualizations
 
 - Line plots of population trends
-- Bar charts for country comparisons
 - Heatmaps for correlation analysis
-
-## 📌 Notes
-
-- Data source details are included in the notebook.
-- Ideal for educational and analytical purposes.
-
-## 📝 License
-
-MIT License
-
----
-
-Let me know if you'd like me to generate a `requirements.txt` as well.
